@@ -1,0 +1,3 @@
+make
+chmod 775 ohrwurm
+ln -vs /pentest/02/ohrwurm/ohrwurm /usr/bin/ohrwurm
